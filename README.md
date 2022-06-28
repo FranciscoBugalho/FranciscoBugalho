@@ -16,13 +16,11 @@
   
 ### Connect with me: <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://gitlab.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ##
 
 <div>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
   ## Backend: <br> <img src="https://skills.thijs.gg/icons?i=java,c,cpp,py,php,&theme=light"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <br><br> Frontend: <br> <img src="https://skills.thijs.gg/icons?i=react,js,html,css,&theme=light"> <br><br>  Mobile: <br> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <br><br> Other Tools: <br> <img src="https://skills.thijs.gg/icons?i=mysql,postgres,mongodb,&theme=light"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     
