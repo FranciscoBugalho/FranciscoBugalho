@@ -16,6 +16,8 @@
   
 ### Connect with me: <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://gitlab.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
