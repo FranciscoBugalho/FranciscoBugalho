@@ -4,12 +4,10 @@
 **FranciscoBugalho/FranciscoBugalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div>
 - 🎓 Currently doing Master in Informatics Engineering at [Faculty of Sciences and Technology](https://www.uc.pt/en/fctuc), University of Coimbra
 - 👨🏽‍🎓 Graduated in Informatics Engineering at Coimbra Institute of Engineering ([ISEC](https://www.isec.pt/EN/))
 - 🚴‍♂️ Sports enthusiast ⚽ **&** 🏎️
 - :portugal: From Portugal 
-</div>
 
 <div>
   ## Contact Me: <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
