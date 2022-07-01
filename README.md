@@ -3,7 +3,7 @@
 <!--
 **FranciscoBugalho/FranciscoBugalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ 
 <div style="display: inline_block">
   
 <img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/469634912291520522/991411264309960804/full-stack-development.gif?width=676&height=676">
