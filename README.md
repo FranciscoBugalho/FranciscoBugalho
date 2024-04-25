@@ -1,6 +1,6 @@
 ## Olá 👋, I'm José Francisco Bugalho 
 
-<img align="right" alt="Coding" width="420" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <div>
     <ul>
         <li>👨🏻‍💻 Software Developer @ Grama</li>
