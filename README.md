@@ -27,6 +27,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker.svg" width="40" />
 </div>
 
+<br />
+
 <details>
     <summary><h3 align="left">Other Languages and Tools</h3> <small>(click to expand)</p></summary>
     <h3 align="left">Programming Languages:</h3>
