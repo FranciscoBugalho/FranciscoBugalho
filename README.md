@@ -1,29 +1,62 @@
-### Olá 👋, I'm José Francisco Bugalho 
+## Olá 👋, I'm José Francisco Bugalho 
 
-<!--
-**FranciscoBugalho/FranciscoBugalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
- 
-<div style="display: inline_block">
-  
-<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/469634912291520522/991411264309960804/full-stack-development.gif?width=676&height=676">
+<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<div>
+    <ul>
+        <li>👨🏻‍💻 Software Developer @ Grama</li>
+        <li>🎓 Master's in Software Engineering from the <a href="https://www.uc.pt/en/fctuc" target="_blank">Faculty of Sciences and Technology</a>, University of Coimbra in 2023</li>
+        <li>👨🏽‍🎓 Bsc in Informatics Engineering from the Coimbra Institute of Engineering (<a href="https://www.isec.pt/EN/" target="_blank">ISEC</a>) in 2021</li>
+        <li>🚴‍♂️ Sports enthusiast ⚽ <b>&</b> 🏎️💨</li>
+        <li>:portugal: From Portugal </li>
+    </ul>
+</div>
 
-- 🎓 Currently doing Master in Informatics Engineering at [Faculty of Sciences and Technology](https://www.uc.pt/en/fctuc), University of Coimbra
-- 👨🏽‍🎓 Graduated in Informatics Engineering at Coimbra Institute of Engineering ([ISEC](https://www.isec.pt/EN/))
-- 🚴‍♂️ Sports enthusiast ⚽ **&** 🏎️
-- :portugal: From Portugal 
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josefranciscobugalho" height="30" width="40" /></a>
+<a href="https://github.com/FranciscoBugalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="franciscobugalho" height="30" width="40" /></a>
 
-  
-### Connect with me: <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://gitlab.com/FranciscoBugalho" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
-##
+***
+
 
 <div>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=8&theme=dark"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=8&theme=dark"/>
+    <h3 align="left">Main Languages & Tools</h2>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/spring.svg" alt="spring.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="postgresql.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="aws.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker.svg" width="40" />
 </div>
 
-  ## Backend: <br> <img src="https://skills.thijs.gg/icons?i=java,c,cpp,py,php&theme=light"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <br><br> Frontend: <br> <img src="https://skills.thijs.gg/icons?i=react,js,html,css,&theme=light"> <br><br>  Mobile: <br> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <br><br> Other Tools: <br> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> <img src="https://skills.thijs.gg/icons?i=mysql,postgres,mongodb,unity&theme=light"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">  
-    
-</div>
 
-<!-- https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/ | https://dev.to/envoy_/150-badges-for-github-pnk -->
+<details>
+    <summary><h3 align="left">Other Languages and Tools</h3> <small>(click to expand)</p></summary>
+    <h3 align="left">Programming Languages:</h3>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python.svg" width="40" />
+    <h3 align="left">Frontend and Backend Development:</h3>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="html.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="css.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/amplify.svg" alt="amplify.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/firebase.svg" alt="firebase.svg" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua.svg" width="40"> 
+    <h3 align="left">Mobile Development:</h3>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg" alt="android.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/kotlin.svg" alt="kotlin.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/flutter.svg" alt="flutter.svg" width="40" />
+    <h3 align="left">Databases:</h3>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="mysql.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="mongodb.svg" width="40" />
+    <h3 align="left">Other Tools:</h3>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="figma.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/postman.svg" alt="postman.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/blender.svg" alt="blender.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/matlab.svg" alt="matlab.svg" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/GameEngines/unity.svg" alt="unity.svg" width="40" />
+</details>
