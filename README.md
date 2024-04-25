@@ -1,6 +1,6 @@
 ## Olá 👋, I'm José Francisco Bugalho 
 
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="Coding" width="420" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <div>
     <ul>
         <li>👨🏻‍💻 Software Developer @ Grama</li>
@@ -11,13 +11,9 @@
     </ul>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josefranciscobugalho" height="30" width="40" /></a>
-<a href="https://github.com/FranciscoBugalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="franciscobugalho" height="30" width="40" /></a>
-
+### Connect with me: <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-bugalho-14137319a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josefranciscobugalho" width="25"></a> <a href="https://github.com/FranciscoBugalho" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="franciscobugalho" width="25"></a>
 
 ***
-
 
 <div>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBugalho&layout=compact&langs_count=8&theme=dark"/>
@@ -30,7 +26,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="aws.svg" width="40" />
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg" alt="docker.svg" width="40" />
 </div>
-
 
 <details>
     <summary><h3 align="left">Other Languages and Tools</h3> <small>(click to expand)</p></summary>
